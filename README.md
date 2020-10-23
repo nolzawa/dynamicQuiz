@@ -1,4 +1,4 @@
-# dynamicQuiz
+# Beginner dynamicQuiz
 Dynamic and scalable questions stored in dictionary and lists instead of being hard coded.
 
 Basic python logic that utilizes the fanciness of dictionary and lists combined with while and for loops for iteration to express automation.
